@@ -29,10 +29,16 @@ quote   : "Talk is cheap. Show me the code."
 ![](https://streak-stats.demolab.com/?user=Pranav-Rewale&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pranav-Rewale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <img src="./assets/github-snake.svg" alt="Github-snake" width="100%">
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Pranav-Rewale&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
